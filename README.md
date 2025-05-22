@@ -35,7 +35,7 @@ In addition, I engaged with several learning materials under the **"Build Your C
 
 These resources provided me with practical knowledge and strategies for navigating interviews, building a professional profile, and preparing for success in the workplace.
 
-![Career Modules and Videos](images/screenshot-80.png)
+![Career Modules and Videos](images/screenshot2.png)
 
 ### ✨ Reflection (STAR Technique)
 

@@ -23,7 +23,7 @@ Thank you for taking the time to visit my portfolio.
 
 As part of the Work Readiness Training, I participated in a series of career counselling activities hosted through the CPUT Student Counselling platform. The programme emphasized the importance of mental well-being with resources like *“It’s OK not to be OK”*, and included a comprehensive module titled **"Career Counselling and Assessment"**.
 
-![Student Counselling Banner](images/screenshot(79).png)
+![Student Counselling Banner](images/screenshot (79).png)
 
 In addition, I engaged with several learning materials under the **"Build Your Career"** section. These included:
 - Career Planning in a Changing Context

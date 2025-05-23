@@ -129,7 +129,7 @@ The **Create a CV** activity was a vital step in preparing for real-world job ap
 - Understood the importance of concise, structured writing in professional documents.
 - Gained practical insight into common mistakes and how to avoid them.
 
-![Create a CV Screenshot](images/Screenshot5).png)
+![Create a CV Screenshot](images/Screenshot5.png)
 
 ## CV Submission  
 
@@ -158,7 +158,7 @@ Although I have submitted my CV, I have not yet received feedback. I am confiden
 - Provided real-life practice in preparing documents for career opportunities.
 - Highlighted the value of timely submission and follow-through.
 
-![CV Screenshot](images/Screenshot6).png)
+![CV Screenshot](images/Screenshot6.png)
 
 
 

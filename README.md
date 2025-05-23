@@ -73,4 +73,38 @@ I worked through each section of the module and reflected on how my values and i
 **R - Result:**  
 I completed the module with a perfect score and developed a clearer understanding of how my personal attributes can be leveraged for career success.
 
+## Personality Assessment  
+**Lehlogonolo Gledwin Mahlangu**
+
+The **Personality Assessment** was one of the most eye-opening components of my self-development journey. Understanding how personality traits align with specific career paths allowed me to think critically about where I fit best in the professional world. This module didn't just test knowledge—it offered a mirror into who I am and how that translates into the workplace.
+
+### Why It Mattered
+
+Personality plays a foundational role in job satisfaction, productivity, and long-term career success. Through this assessment, I recognized tendencies that influence my behavior, preferences for work environments, and how I interact in teams or leadership roles. I now have a clearer picture of how I can align my natural inclinations with career opportunities that will allow me to thrive.
+
+---
+
+### STAR Reflection
+
+- **Situation:** I was tasked with completing a personality-based career matching assessment that explores the intersection of individual traits and vocational outcomes.
+  
+- **Task:** My objective was to evaluate various personality types and their associated career paths, then reflect on which ones most closely aligned with my personal characteristics.
+  
+- **Action:** I carefully analyzed each question, drawing from both the course material and personal introspection. I avoided rushing through the task and instead used it as a real opportunity to explore how my traits influence my potential roles in the workforce.
+  
+- **Result:** I successfully completed the assessment with a score of **80/100**, indicating a strong understanding of the content and its application. The assessment was completed in a focused and efficient **3 minutes and 28 seconds**. Most importantly, I walked away with valuable self-awareness that will inform my career choices moving forward.
+
+---
+
+### Key Takeaways
+
+- I discovered that I resonate with both **Realistic** and **Conventional** personality types.
+- I realized that careers requiring systematic problem-solving and analytical reasoning appeal to me.
+- The exercise also helped me understand why I work best in environments with structure and clarity.
+
+---
+
+![Personality Assessment Screenshot](attachment:/mnt/data/Screenshot%20(82).png)
+
+
 ---

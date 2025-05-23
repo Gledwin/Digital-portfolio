@@ -57,7 +57,7 @@ As a result of this experience, I now feel more confident in my career direction
 
 I completed the "Skills and Interests" module, where I explored values, skillsets, transferable skills, and how these impact career decisions. I achieved a perfect score of **100/100**, demonstrating full engagement and understanding.
 
-![Skills and Interests Completion](images/screenshot3.png)
+![Skills and Interests Completion](images/Screenshot3.png)
 
 ### ✨ Reflection (STAR Technique)
 
@@ -103,7 +103,7 @@ Personality plays a foundational role in job satisfaction, productivity, and lon
 
 
 
-![Personality Assessment Screenshot](images/Screenshot3.png)
+![Personality Assessment Screenshot](images/Screenshot4.png)
 
 ## Create a CV  
 
@@ -129,7 +129,7 @@ The **Create a CV** activity was a vital step in preparing for real-world job ap
 - Understood the importance of concise, structured writing in professional documents.
 - Gained practical insight into common mistakes and how to avoid them.
 
-![Create a CV Screenshot](images/Screenshot4).png)
+![Create a CV Screenshot](images/Screenshot5).png)
 
 ## CV Submission  
 
@@ -158,7 +158,7 @@ Although I have submitted my CV, I have not yet received feedback. I am confiden
 - Provided real-life practice in preparing documents for career opportunities.
 - Highlighted the value of timely submission and follow-through.
 
-![CV Screenshot](images/Screenshot5).png)
+![CV Screenshot](images/Screenshot6).png)
 
 
 

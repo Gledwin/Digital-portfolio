@@ -51,4 +51,26 @@ I attended the sessions available through the online platform and carefully revi
 **R – Result:**  
 As a result of this experience, I now feel more confident in my career direction and better prepared to market myself effectively. I understand the importance of self-awareness, adaptability, and emotional intelligence in the workplace. I also developed a clearer career vision, with realistic expectations and strategies to achieve my goals.
 
+## 🔧 Skills and Interests
+
+### 🧾 Evidence
+
+I completed the "Skills and Interests" module, where I explored values, skillsets, transferable skills, and how these impact career decisions. I achieved a perfect score of **100/100**, demonstrating full engagement and understanding.
+
+![Skills and Interests Completion](images/screenshot3.png)
+
+### 🌟 Reflection (STAR Technique)
+
+**S - Situation:**  
+During the Work Readiness Training, I was enrolled in a module focusing on skills and interests.
+
+**T - Task:**  
+The task involved identifying my key skills, understanding what values are, and how they influence career choices.
+
+**A - Action:**  
+I worked through each section of the module and reflected on how my values and interests align with careers in ICT, particularly in application development.
+
+**R - Result:**  
+I completed the module with a perfect score and developed a clearer understanding of how my personal attributes can be leveraged for career success.
+
 ---

@@ -122,7 +122,6 @@ The **Create a CV** activity was a vital step in preparing for real-world job ap
   
 - **Result:** I achieved a **score of 100/100**, demonstrating full understanding of the CV-building process. Although the submission was marked late, I completed the quiz in just **5 minutes and 31 seconds**, confirming my grasp of the topic and ability to apply the information quickly and effectively.
 
----
 
 ### Key Takeaways
 
@@ -152,7 +151,6 @@ Although I have submitted my CV, I have not yet received feedback. I am confiden
   
 - **Result:** I successfully submitted the CV within the given time frame. As of now, feedback is still pending. However, I feel confident in the quality of the document submitted and anticipate constructive insights once the review is complete.
 
----
 
 ### Key Takeaways
 

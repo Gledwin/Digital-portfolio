@@ -39,17 +39,13 @@ These resources provided me with practical knowledge and strategies for navigati
 
 ### ✨ Reflection (STAR Technique)
 
-**S – Situation:**  
-At the beginning of the career counselling programme, I felt uncertain about how to approach my transition from student life to the working world. I had limited understanding of what employers look for and how to present myself confidently during job applications and interviews.
+- **Situation:**  At the beginning of the career counselling programme, I felt uncertain about how to approach my transition from student life to the working world. I had limited understanding of what employers look for and how to present myself confidently during job applications and interviews.
 
-**T – Task:**  
-My task was to actively engage with the student counselling resources, complete the modules, and reflect on how I could apply the skills and insights to my personal career journey.
+- **Task:**  My task was to actively engage with the student counselling resources, complete the modules, and reflect on how I could apply the skills and insights to my personal career journey.
 
-**A – Action:**  
-I attended the sessions available through the online platform and carefully reviewed materials such as "Career Planning in a Changing Context", the "5 Skills and Traits to Succeed" video, and "5 Ways to Stand Out in a Virtual Interview". I also made notes, participated in discussions where applicable, and reflected on how these topics applied to me as an aspiring software developer.
+- **Action:**  I attended the sessions available through the online platform and carefully reviewed materials such as "Career Planning in a Changing Context", the "5 Skills and Traits to Succeed" video, and "5 Ways to Stand Out in a Virtual Interview". I also made notes, participated in discussions where applicable, and reflected on how these topics applied to me as an aspiring software developer.
 
-**R – Result:**  
-As a result of this experience, I now feel more confident in my career direction and better prepared to market myself effectively. I understand the importance of self-awareness, adaptability, and emotional intelligence in the workplace. I also developed a clearer career vision, with realistic expectations and strategies to achieve my goals.
+- **Result:**  As a result of this experience, I now feel more confident in my career direction and better prepared to market myself effectively. I understand the importance of self-awareness, adaptability, and emotional intelligence in the workplace. I also developed a clearer career vision, with realistic expectations and strategies to achieve my goals.
 
 ## Skills and Interests
 
@@ -61,17 +57,13 @@ I completed the "Skills and Interests" module, where I explored values, skillset
 
 ### ✨ Reflection (STAR Technique)
 
-**S - Situation:**  
-During the Work Readiness Training, I was enrolled in a module focusing on skills and interests.
+- **Situation:** During the Work Readiness Training, I was enrolled in a module focusing on skills and interests.
 
-**T - Task:**  
-The task involved identifying my key skills, understanding what values are, and how they influence career choices.
+- **Task:** The task involved identifying my key skills, understanding what values are, and how they influence career choices.
 
-**A - Action:**  
-I worked through each section of the module and reflected on how my values and interests align with careers in ICT, particularly in application development.
+- **Action:** I worked through each section of the module and reflected on how my values and interests align with careers in ICT, particularly in application development.
 
-**R - Result:**  
-I completed the module with a perfect score and developed a clearer understanding of how my personal attributes can be leveraged for career success.
+ - **Result:** I completed the module with a perfect score and developed a clearer understanding of how my personal attributes can be leveraged for career success.
 
 ## Personality Assessment  
 
